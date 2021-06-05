@@ -1,4 +1,5 @@
 .ipynb_checkpoints
+.idea
 /bert-base-uncased
 /bert-large-uncased
 /bert-base-chinese
@@ -23,3 +24,4 @@ nohup.*
 /figures
 make_figures.py
 *.sh
+
